@@ -933,6 +933,7 @@ body {
     margin-left: 0;
     height: 38px !important; 
     justify-content: flex-start;
+    height: auto !important;
 }
 
 .link, .useful-btn {
